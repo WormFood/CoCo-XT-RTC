@@ -24,3 +24,17 @@ but I haven't investigated it, to see how to activate it.
 I made the schematics real quick, and did a reasonable amount of double checking,
 but it is still possible I could have made a mistake. Everything looks reasonable,
 except for the one thing I noted on the schematics.
+
+![Burke & Burke CoCo XT RTC](/Pictures/Burke_and_Burke_CoCo_XT-RTC_external.jpg "Burke & Burke CoCo XT RTC")
+
+A closeup view of the PCB. Notice the "MADE IN USSR" 7400 ICs. The battery was never replaced, and has about 2.9 volts in 2025.
+![Burke & Burke CoCo XT RTC PCB](/Pictures/Burke_and_Burke_CoCo_XT-RTC_PCB.jpg "Burke & Burke CoCo XT RTC PCB")
+
+The CoCo XT-RTC with a WD1002-WX1 and OS-9 boot ROM installed.
+![Burke & Burke CoCo XT RTC W/WD1002-WX1](/Pictures/Burke_and_Burke_CoCo_XT-RTC_with_WD1002-WX1.jpg "Burke & Burke CoCo XT RTC w/WD1002-WX1 and OS-9 boot ROM")
+
+The CoCo XT-RTC with a WD1002A-WX1 installed.
+![Burke & Burke CoCo XT RTC W/WD1002A-WX1](/Pictures/Burke_and_Burke_CoCo_XT-RTC_with_WD1002A-WX1.jpg "Burke & Burke CoCo XT RTC w/WD1002A-WX1")
+
+This should be accurate.
+![Burke & Burke CoCo XT RTC](/Burke_and_Burke_CoCo_XT-RTC_Schematics.png "Burke & Burke CoCo XT RTC")
