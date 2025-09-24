@@ -58,9 +58,6 @@ int main(int argc, char *argv[])
 		return EXIT_FAILURE;
 	}
 
-// Helper macro: extract bit "src" from value and place in "dst"
-#define MAP_BIT(val, dst, src) (((val) & (1 << (src))) ? (1 << (dst)) : 0)
-
 //	printf("Attempting to descramble ROM\n");
 	for(i=0;i<ROM_SIZE;i++)
 		out[i^0x70] = in[i];
