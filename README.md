@@ -18,8 +18,11 @@ can't make much sense out of it, without knowing how it is scrambled. Address
 lines A4, A5 and A6 are inverted, so it's trivial to unscramble. Also included
 is the software to scramble or unscramble the ROM image.
 
-Text found within the ROM file, suggests that the game of life built-in to it,
-but I haven't investigated it, to see how to activate it.
+The original instructions claimed a little demonstration program, accessible
+from the keyboard, is hidden deep within the XT-ROM. It is pretty easy to tell
+it is the game of Life, from the strings within the ROM. But how to enter this
+hidden gem? It's easy. Just hold down the "G" key, when powering on, or when
+resetting the computer.
 
 I made the schematics real quick, and did a reasonable amount of double checking,
 but it is still possible I could have made a mistake. Everything looks reasonable,
