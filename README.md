@@ -24,9 +24,9 @@ it is the game of Life, from the strings within the ROM. But how to enter this
 hidden gem? It's easy. Just hold down the "G" key, when powering on, or when
 resetting the computer.
 
-I made the schematics real quick, and did a reasonable amount of double checking,
-but it is still possible I could have made a mistake. Everything looks reasonable,
-except for the one thing I noted on the schematics.
+I made the schematics real quick, and the first one had a mistake. Schematics
+have been updated, and should be correct now. If you spot any problems, please
+let me know, so it can be fixed.
 
 ![Burke & Burke CoCo XT RTC](/Pictures/Burke_and_Burke_CoCo_XT-RTC_external.jpg "Burke & Burke CoCo XT RTC")
 
@@ -39,5 +39,5 @@ The CoCo XT-RTC with a WD1002-WX1 and OS-9 boot ROM installed.
 The CoCo XT-RTC with a WD1002A-WX1 installed.
 ![Burke & Burke CoCo XT RTC W/WD1002A-WX1](/Pictures/Burke_and_Burke_CoCo_XT-RTC_with_WD1002A-WX1.jpg "Burke & Burke CoCo XT RTC w/WD1002A-WX1")
 
-This should be accurate.
+This should be accurate now. Updated 2026 Nov 05
 ![Burke & Burke CoCo XT RTC](/Burke_and_Burke_CoCo_XT-RTC_Schematics.png "Burke & Burke CoCo XT RTC")
